@@ -1,2 +1,2 @@
 # An E-Learning Platform Application built with Python Django
-Built reading through the book Django 3 By Example by Antonio Mele  
+Built with the book Django 3 By Example by Antonio Mele  
